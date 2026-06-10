@@ -16,8 +16,10 @@ A lightweight and efficient browser extension that blocks ads on YouTube, provid
 
 
 ## Usage
-![Interface](_img/UI101.png)
-![Interface](_img/UI105.png)
+<p float="left">
+  <img src="_img/UI101.png" width="30%" />
+  <img src="_img/UI105.png" width="30%" />
+</p>
 
 ### 📥 Download Versions
 
