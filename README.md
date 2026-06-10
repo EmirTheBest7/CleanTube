@@ -26,6 +26,7 @@ A lightweight and efficient browser extension that blocks ads on YouTube, provid
 | **v1.0.1** | Apr 21, 2026 | [📦 CleanTube_1.0.1.zip](https://github.com/EmirTheBest7/CleanTube/releases/download/v1.0.1/CleanTube_1.0.1.zip) | Core | 🟢 BETA 1 |
 | **v1.0.2** | Apr 24, 2026 | [📦 CleanTube_1.0.2.zip](https://github.com/EmirTheBest7/CleanTube/releases/download/V1.0.3/CleanTube_1.0.2.zip) | Fallback Mechanism | 🟢 BETA 2 |
 | **v1.0.3** | Apr 27, 2026 | [📦 CleanTube_1.0.3.zip](https://github.com/EmirTheBest7/CleanTube/releases/download/V1.0.3/CleanTube_1.0.3.zip) | PiP, Changed YT UI | 🟢 BETA 3 |
+| **v1.0.5** | Jun 10, 2026 | [📦 CleanTube_1.0.5.zip](https://github.com/EmirTheBest7/CleanTube/releases/download/V1.0.5/CleanTube_1.0.5.zip) | Optimization, UI/UX Changes | 🟢 BETA 5 |
 
 ---
 
