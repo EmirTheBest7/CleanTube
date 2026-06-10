@@ -17,6 +17,7 @@ A lightweight and efficient browser extension that blocks ads on YouTube, provid
 
 ## Usage
 ![Interface](_img/UI101.png)
+![Interface](_img/UI105.png)
 
 ### 📥 Download Versions
 
