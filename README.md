@@ -14,6 +14,11 @@
 
 A lightweight and efficient browser extension that blocks ads on YouTube, providing a clean and uninterrupted viewing experience. Built with performance and simplicity in mind, it removes video ads, banners, and pop-ups without slowing down playback.
 
+<p float="left" align="center">
+    <a href="https://github.com/EmirTheBest7/CleanTube"><img height="10%" alt="CleanTube_btn" src="https://github.com/user-attachments/assets/4f6f8716-9856-48a5-accd-27e84d17079d" /></a>
+    <a href="https://github.com/EmirTheBest7/CleanText"><img height="10%" alt="CleanText_btn" src="https://github.com/user-attachments/assets/fe4065f3-a424-4d0e-8b99-933324fd034e" /></a>
+</p>
+
 
 ## Usage
 <p float="left">
